@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Only Crypto </h3>
+
 
 <img align ="right" alt="World" width = "300" src = "https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/200w.webp?cid=ecf05e47nqlzmcygy0olr9jwi41flw268x09h7kkglfolyob&rid=200w.webp&ct=g">
 
